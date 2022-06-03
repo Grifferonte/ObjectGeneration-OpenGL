@@ -1,0 +1,3 @@
+﻿  OpenGL.cpp
+E:\ESIEE\2A\ComputerGraphic\Exercices\OpenGL\OpenGL.cpp(37,20): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  OpenGL.vcxproj -> E:\ESIEE\2A\ComputerGraphic\Exercices\x64\Debug\OpenGL.exe
